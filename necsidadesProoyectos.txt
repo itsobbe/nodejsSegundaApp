@@ -1,0 +1,6 @@
+npm i express ejs morgan
+
+express -> framework que facilita el codigo usado para servidor
+ejs -> motor de plantilla que permite usar codigo embedido en html
+moran -> permite ver las peticiones de las paginas
+nodemon -D -> modulo que permite que cada vez que guardes se refresque la pagina automaticamente, -D para que sea una dependencia de desarrollo
